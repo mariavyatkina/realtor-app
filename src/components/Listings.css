@@ -1,0 +1,21 @@
+.dropdown{
+    margin-bottom: 50px;
+}
+.form-row{
+    display:flex;
+}
+.form-control{
+    margin: 10px;
+
+}
+.listings{
+    display: inline-flex;
+    text-align: center;
+    margin: 10px;
+    align-items: center;
+
+}
+.listingsPage{
+    text-align: center;
+
+}

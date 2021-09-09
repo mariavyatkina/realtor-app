@@ -1,0 +1,17 @@
+h1 {
+  text-align: center;
+}
+
+nav {
+  margin-bottom: 20px;
+}
+.maindiv{
+  margin: 0% 8%;
+}
+.navbar-brand {
+  margin: 10px 15px;
+}
+.user-nav{
+  display: flex;
+  text-align: right;
+}
